@@ -316,3 +316,176 @@ I want to build a resource that helps others start their journey too.
 
 ---
 
+
+---
+
+# 🛡️ Cybersecurity Dashboard
+
+<div align="center">
+
+| 📊 Progress | Status |
+|:------------|:------:|
+| 🐧 Linux Fundamentals | ✅ Completed |
+| 🌐 Networking | ✅ Completed |
+| 🛡️ Cybersecurity Fundamentals | ✅ Completed |
+| 🌍 Web Security | 🔄 In Progress |
+| 🔥 OWASP Top 10 | ⏳ Upcoming |
+| 🛠️ Burp Suite | ⏳ Upcoming |
+| 🧪 TryHackMe | ⏳ Upcoming |
+| 🐍 Python for Security | ⏳ Upcoming |
+| 💻 Security Projects | ⏳ Upcoming |
+
+</div>
+
+---
+
+# 📈 Learning Statistics
+
+<div align="center">
+
+| 📚 Metric | Goal |
+|-----------|------|
+| Notes Written | 150+ |
+| Labs Completed | 50+ |
+| Cheatsheets | 20+ |
+| Mini Projects | 10+ |
+| TryHackMe Rooms | 100+ |
+| GitHub Commits | ♾️ |
+| Coffee Consumed ☕ | A Lot |
+
+</div>
+
+---
+
+# 🗺️ Cybersecurity Roadmap
+
+```text
+Linux                          ✅
+
+        ↓
+
+Networking                     ✅
+
+        ↓
+
+Cybersecurity                  ✅
+
+        ↓
+
+Web Security                   🔄
+
+        ↓
+
+Burp Suite                     ⏳
+
+        ↓
+
+OWASP Top 10                   ⏳
+
+        ↓
+
+TryHackMe                      ⏳
+
+        ↓
+
+Python for Security            ⏳
+
+        ↓
+
+Security Projects              ⏳
+
+        ↓
+
+Bug Bounty                     🎯
+
+        ↓
+
+Security Engineer              🚀
+```
+
+---
+
+# 📚 Current Learning
+
+```yaml
+Current Module:
+  Web Security
+
+Topics:
+  - HTTP
+  - HTTPS
+  - Cookies
+  - Sessions
+  - Authentication
+  - Authorization
+
+Next:
+  - Burp Suite
+  - SQL Injection
+  - XSS
+  - CSRF
+```
+
+---
+
+# 💡 Philosophy
+
+> **"Learning cybersecurity isn't about memorizing tools.**
+>
+> **It's about understanding how systems work, breaking them ethically, fixing them, and sharing that knowledge with others."**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SoHam-11111">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Enable GitHub Actions in this repository and add the snake workflow later.**
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 💙 Support My Work
+
+If you find my notes useful,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+📢 Share them with others learning cybersecurity
+
+Learning is always better together.
+
+---
+
+<div align="center">
+
+## 🚀 Learn → Practice → Build → Document → Share
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7F5AF0,100:4F46E5&height=120&section=footer"/>
+
+</div>
