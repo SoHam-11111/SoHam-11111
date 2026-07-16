@@ -1,22 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7F5AF0,100:4F46E5&text=Soham%20Chainani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0D1117,100:161B22&text=𝑺𝒐𝒉𝒂𝒎%20𝑪𝒉𝒂𝒊𝒏𝒂𝒏𝒊&fontColor=F0F6FC&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20•%20Software%20Development&descAlignY=62&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A6EFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Building+CyberSecurity-From-Scratch;Linux+%7C+Networking+%7C+Web+Security;Learning+Publicly+Every+Day;Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Share)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&pause=1500&color=00FF88&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Software+Developer;Learning+•+Building+•+Sharing;Always+Building+Something+New)](https://git.io/typing-svg)
+
+<br>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SoHam-11111">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SoHam-11111&style=flat-square&color=00FF88"/>
 
 </div>
 
 ---
 
+# ◈ About Me
+
+I'm an **Information Technology student** with a strong interest in **Cybersecurity** and **Software Development**.
+
+I enjoy understanding how systems work, solving problems, and building projects that strengthen both my development and security skills.
+
+Currently, I'm exploring **Linux**, **Networking**, **Web Security**, and **Python**, while documenting my learning through practical projects and open-source repositories.
+
+> *"Stay curious. Keep building."*
+
+---
+
+# ◈ Current Focus
+
+```yaml
+Learning:
+  • Web Security
+  • Burp Suite
+  • Python
+
+Building:
+  • Open Source Projects
+  • Security Tools
+
+Exploring:
+  • Linux
+  • Networking
+  • Cybersecurity
+```
+
+---
+
+# ◈ Tech I'm Working With
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,bash,mysql"/>
+
+</p>
+
+---
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter"/>
+
+</p>
+
+---
+
+### Cybersecurity & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+
+</p>
+
+---
+
+# ◈ Interests
+
+- Cybersecurity
+- Software Development
+- Open Source
+- Problem Solving
+- UI / UX Design
+- Automation
+
+---
+
+# ◈ Featured Projects
+
 <div align="center">
 
-![](https://img.shields.io/badge/Location-Mumbai,%20India-6C63FF?style=for-the-badge)
+<a href="https://github.com/SoHam-11111/CyberSecurity-From-Scratch">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=CyberSecurity-From-Scratch&theme=github_dark&hide_border=true"/>
+</a>
 
-![](https://img.shields.io/badge/Open%20Source-Learning-7F5AF0?style=for-the-badge)
-
-![](https://img.shields.io/badge/Cybersecurity-Enthusiast-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Linux-Lover-8B5CF6?style=for-the-badge)
+<a href="https://github.com/SoHam-11111">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=Student-Tracker&theme=github_dark&hide_border=true"/>
+</a>
 
 </div>
 
@@ -24,216 +129,99 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-[![Repository](https://img.shields.io/badge/Main_Project-CyberSecurity--From--Scratch-6C63FF?style=for-the-badge&logo=github)](https://github.com/SoHam-11111/CyberSecurity-From-Scratch)
-
-</div>
-
----
-
-# About Me
-
-I'm an **Information Technology student** passionate about **Cybersecurity, Linux, Networking, and Web Security**.
-
-Rather than simply collecting certificates, I believe in **learning by building**.
-
-I'm currently documenting my entire cybersecurity journey through my open-source repository:
-
-## ⭐ CyberSecurity-From-Scratch
-
-A structured roadmap where I learn cybersecurity from the ground up while creating:
-
-- 📚 Beginner-friendly notes
-- 🧪 Hands-on labs
-- 💻 Practical projects
-- 📄 Cheatsheets
-- 🔥 GitHub documentation
-
-My goal is to become a **Cybersecurity Engineer** by consistently learning, practicing, building, and sharing everything I discover.
-
----
-
-# Current Learning Journey
-
-```
-
-Linux                         ████████████████████ 100%
-
-Networking                    ████████████████████ 100%
-
-Cybersecurity                 ████████████████████ 100%
-
-Web Security                  ██████░░░░░░░░░░░░░ 30%
-
-Burp Suite                    ░░░░░░░░░░░░░░░░░░░░
-
-OWASP Top 10                  ░░░░░░░░░░░░░░░░░░░░
-
-TryHackMe                     ░░░░░░░░░░░░░░░░░░░░
-
-Python for Security           ░░░░░░░░░░░░░░░░░░░░
-
-Security Projects             ░░░░░░░░░░░░░░░░░░░░
-
-```
-
----
-
-# Learning Philosophy
-
-```text
-Learn
-
-↓
-
-Practice
-
-↓
-
-Build
-
-↓
-
-Document
-
-↓
-
-Share
-
-↓
-
-Repeat
-```
-
-Everything in this GitHub follows this philosophy.
-
-I don't just want to learn cybersecurity.
-
-I want to build a resource that helps others start their journey too.
-
----
-
-# Tech Stack
-
-### Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux,windows"/>
-
-</p>
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,bash,c"/>
-
-</p>
-
-### Networking & Security
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git"/>
-
-</p>
-
----
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/SoHam-11111/CyberSecurity-From-Scratch">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=CyberSecurity-From-Scratch&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/SoHam-11111">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=Iron-Track&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SoHam-11111">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=Wastec-Bank&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-# 📂 Repository Highlights
+# ◈ GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SoHam-11111&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHam-11111&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SoHam-11111&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# ◈ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoHam-11111&theme=github-dark&hide_border=true&radius=12"/>
+
+</div>
+
+---
+
+# ◈ Currently Exploring
 
 <table>
-<tr>
-
-<td width="50%">
-
-### 📚 Learn
-
-- 🐧 Linux Fundamentals
-- 🌐 Networking Fundamentals
-- 🛡 Cybersecurity Fundamentals
-- 🌍 Web Security *(In Progress)*
-- 🔐 Cryptography
-- 🍪 HTTP, Cookies & Sessions
-
-</td>
-
-<td width="50%">
-
-### 🧪 Practice
-
-- Wireshark Labs
-- Nmap Labs
-- Packet Analysis
-- Burp Suite Labs *(Upcoming)*
-- PortSwigger Labs *(Upcoming)*
-- TryHackMe *(Upcoming)*
-
-</td>
-
-</tr>
 
 <tr>
 
-<td>
+<td align="center" width="33%">
 
-### 💻 Build
+### Cybersecurity
 
-- Password Checker
-- Port Scanner
-- Network Utilities
-- Security Scripts
-- Python Automation
-- Mini Security Projects
+Linux
+
+Networking
+
+Web Security
+
+OWASP
+
+Burp Suite
 
 </td>
 
-<td>
+<td align="center" width="33%">
 
-### 📄 Share
+### Software Development
 
-- Beginner Friendly Notes
-- Practical Labs
-- Cheatsheets
-- Roadmaps
-- Markdown Documentation
-- Open Source Learning
+Python
+
+Java
+
+JavaScript
+
+Flutter
+
+React
+
+</td>
+
+<td align="center" width="33%">
+
+### Next Goals
+
+Security Projects
+
+Cloud
+
+DevSecOps
+
+Active Directory
+
+CTFs
 
 </td>
 
@@ -243,249 +231,234 @@ I want to build a resource that helps others start their journey too.
 
 ---
 
-# 📈 GitHub Analytics
+# ◈ Current Projects
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoHam-11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHam-11111&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SoHam-11111&theme=tokyonight&hide_border=true"/>
-
-</div>
+| Project | Description |
+|----------|-------------|
+| 🛡 CyberSecurity-From-Scratch | Notes, Labs & Projects documenting my cybersecurity learning journey |
+| 📱 Student Tracker | Flutter application for student management |
+| 🏋 Iron Track | Fitness tracking application |
+| 🌱 Open Source | Continuously contributing through personal learning projects |
 
 ---
 
-# 🏆 GitHub Trophies
+---
 
-<div align="center">
+# ◈ Philosophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=SoHam-11111&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+> *"Technology is best understood by building it, breaking it, fixing it, and sharing what you learn."*
 
-</div>
+I believe learning should be practical.
+
+Whether it's writing code, exploring cybersecurity, or contributing to open source, I enjoy understanding how things work from the inside out.
+
+Every project I build is an opportunity to improve my skills and help others learn along the way.
 
 ---
 
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoHam-11111&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📌 Current Projects
-
-| Project | Status |
-|---------|--------|
-| 🛡 CyberSecurity-From-Scratch | 🟢 Active |
-| 🌐 Web Security Notes | 🟢 In Progress |
-| 🧪 Networking Labs | ✅ Completed |
-| 🐧 Linux Documentation | ✅ Completed |
-| 🔐 Cybersecurity Fundamentals | ✅ Completed |
-| 🐍 Python Security Tools | 🔜 Coming Soon |
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Linux Fundamentals
-- ✅ Master Computer Networking
-- ✅ Complete Cybersecurity Fundamentals
-- 🔄 Complete Web Security
-- ⏳ Learn Burp Suite
-- ⏳ Complete OWASP Top 10
-- ⏳ Solve 100+ TryHackMe Rooms
-- ⏳ Build 10 Security Projects
-- ⏳ Contribute to Open Source
-
----
-
-# 🌟 Quote I Follow
-
-> **"The best way to learn cybersecurity is not by reading alone—but by building, breaking, fixing, and documenting everything along the way."**
-
----
-
-
----
-
-# 🛡️ Cybersecurity Dashboard
-
-<div align="center">
-
-| 📊 Progress | Status |
-|:------------|:------:|
-| 🐧 Linux Fundamentals | ✅ Completed |
-| 🌐 Networking | ✅ Completed |
-| 🛡️ Cybersecurity Fundamentals | ✅ Completed |
-| 🌍 Web Security | 🔄 In Progress |
-| 🔥 OWASP Top 10 | ⏳ Upcoming |
-| 🛠️ Burp Suite | ⏳ Upcoming |
-| 🧪 TryHackMe | ⏳ Upcoming |
-| 🐍 Python for Security | ⏳ Upcoming |
-| 💻 Security Projects | ⏳ Upcoming |
-
-</div>
-
----
-
-# 📈 Learning Statistics
-
-<div align="center">
-
-| 📚 Metric | Goal |
-|-----------|------|
-| Notes Written | 150+ |
-| Labs Completed | 50+ |
-| Cheatsheets | 20+ |
-| Mini Projects | 10+ |
-| TryHackMe Rooms | 100+ |
-| GitHub Commits | ♾️ |
-| Coffee Consumed ☕ | A Lot |
-
-</div>
-
----
-
-# 🗺️ Cybersecurity Roadmap
+# ◈ Beyond the Code
 
 ```text
-Linux                          ✅
+Interests
 
-        ↓
+• Cybersecurity
 
-Networking                     ✅
+• Software Development
 
-        ↓
+• Linux
 
-Cybersecurity                  ✅
+• Open Source
 
-        ↓
+• UI / UX
 
-Web Security                   🔄
+• Automation
 
-        ↓
+• Problem Solving
 
-Burp Suite                     ⏳
-
-        ↓
-
-OWASP Top 10                   ⏳
-
-        ↓
-
-TryHackMe                      ⏳
-
-        ↓
-
-Python for Security            ⏳
-
-        ↓
-
-Security Projects              ⏳
-
-        ↓
-
-Bug Bounty                     🎯
-
-        ↓
-
-Security Engineer              🚀
+• Continuous Learning
 ```
 
 ---
 
-# 📚 Current Learning
+# ◈ Open Source
 
-```yaml
-Current Module:
-  Web Security
+I enjoy documenting what I learn and turning personal projects into resources that others can use.
 
-Topics:
-  - HTTP
-  - HTTPS
-  - Cookies
-  - Sessions
-  - Authentication
-  - Authorization
-
-Next:
-  - Burp Suite
-  - SQL Injection
-  - XSS
-  - CSRF
-```
+Whether it's writing beginner-friendly documentation, experimenting with new technologies, or building practical tools, my goal is to keep learning and contribute back to the community.
 
 ---
 
-# 💡 Philosophy
+# ◈ GitHub Contribution Snake
 
-> **"Learning cybersecurity isn't about memorizing tools.**
->
-> **It's about understanding how systems work, breaking them ethically, fixing them, and sharing that knowledge with others."**
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img alt="Contribution Snake"
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# ◈ Let's Connect
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+
 </a>
+
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
 </a>
+
+&nbsp;
 
 <a href="https://github.com/SoHam-11111">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-> **Enable GitHub Actions in this repository and add the snake workflow later.**
+### *Stay curious. Keep building.*
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF88,100:58A6FF"/>
 
 </div>
 
 ---
 
-# 💙 Support My Work
+# ◈ What I'm Learning
 
-If you find my notes useful,
+<table>
+<tr>
 
-⭐ Star my repositories
+<td width="50%">
 
-🍴 Fork them
+### Currently
 
-📢 Share them with others learning cybersecurity
+- Web Security
+- Burp Suite
+- Python
+- Linux
+- Networking
 
-Learning is always better together.
+</td>
+
+<td width="50%">
+
+### Next Up
+
+- OWASP Top 10
+- TryHackMe
+- Active Directory
+- Cloud Security
+- DevSecOps
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ◈ A Few Things About Me
+
+```text
+☕ Coffee makes debugging easier.
+
+🐧 Linux is slowly becoming my second home.
+
+🛡️ Curious about how systems work—and how to secure them.
+
+💻 I enjoy building projects as much as learning new technologies.
+
+📚 Always trying to improve one skill at a time.
+```
+
+---
+
+# ◈ Favorite Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,java,react,flutter,docker,git"/>
+
+</div>
+
+---
+
+# ◈ Current Workspace
+
+```text
+💻 Lenovo IdeaPad Slim 5
+
+🖥 Windows 11 + WSL2 (Ubuntu)
+
+📝 VS Code
+
+🐍 Python
+
+🐧 Linux
+
+☕ Coffee
+```
+
+---
+
+# ◈ Quote
+
+<div align="center">
+
+> *"Every expert was once a beginner who refused to quit."*
+
+</div>
+
+---
+
+# ◈ Thanks for Visiting
+
+<div align="center">
+
+If you like my work,
+
+⭐ Star a repository
+
+🍴 Fork a project
+
+💬 Feel free to connect
+
+I'm always open to learning from others.
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🚀 Learn → Practice → Build → Document → Share
+### Learning • Building • Sharing
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7F5AF0,100:4F46E5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00FF88,100:58A6FF"/>
 
 </div>
