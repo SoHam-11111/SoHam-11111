@@ -159,3 +159,160 @@ I want to build a resource that helps others start their journey too.
 </p>
 
 ---
+
+---
+
+# 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/SoHam-11111/CyberSecurity-From-Scratch">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=SoHam-11111&repo=CyberSecurity-From-Scratch&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+# 📂 Repository Highlights
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📚 Learn
+
+- 🐧 Linux Fundamentals
+- 🌐 Networking Fundamentals
+- 🛡 Cybersecurity Fundamentals
+- 🌍 Web Security *(In Progress)*
+- 🔐 Cryptography
+- 🍪 HTTP, Cookies & Sessions
+
+</td>
+
+<td width="50%">
+
+### 🧪 Practice
+
+- Wireshark Labs
+- Nmap Labs
+- Packet Analysis
+- Burp Suite Labs *(Upcoming)*
+- PortSwigger Labs *(Upcoming)*
+- TryHackMe *(Upcoming)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💻 Build
+
+- Password Checker
+- Port Scanner
+- Network Utilities
+- Security Scripts
+- Python Automation
+- Mini Security Projects
+
+</td>
+
+<td>
+
+### 📄 Share
+
+- Beginner Friendly Notes
+- Practical Labs
+- Cheatsheets
+- Roadmaps
+- Markdown Documentation
+- Open Source Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoHam-11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoHam-11111&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SoHam-11111&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SoHam-11111&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoHam-11111&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Current Projects
+
+| Project | Status |
+|---------|--------|
+| 🛡 CyberSecurity-From-Scratch | 🟢 Active |
+| 🌐 Web Security Notes | 🟢 In Progress |
+| 🧪 Networking Labs | ✅ Completed |
+| 🐧 Linux Documentation | ✅ Completed |
+| 🔐 Cybersecurity Fundamentals | ✅ Completed |
+| 🐍 Python Security Tools | 🔜 Coming Soon |
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Linux Fundamentals
+- ✅ Master Computer Networking
+- ✅ Complete Cybersecurity Fundamentals
+- 🔄 Complete Web Security
+- ⏳ Learn Burp Suite
+- ⏳ Complete OWASP Top 10
+- ⏳ Solve 100+ TryHackMe Rooms
+- ⏳ Build 10 Security Projects
+- ⏳ Contribute to Open Source
+
+---
+
+# 🌟 Quote I Follow
+
+> **"The best way to learn cybersecurity is not by reading alone—but by building, breaking, fixing, and documenting everything along the way."**
+
+---
+
